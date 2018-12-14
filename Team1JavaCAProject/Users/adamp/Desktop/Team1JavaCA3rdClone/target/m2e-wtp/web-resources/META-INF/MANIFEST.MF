@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Team1JavaCA2ndClone
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: adamp
+Implementation-Vendor-Id: com.nus.iss
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Team1JavaCA2ndClone
+Created-By: Maven Integration for Eclipse
+
